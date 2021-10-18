@@ -1,0 +1,7 @@
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\bin\Debug\DestructorDemo.exe.config
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\bin\Debug\DestructorDemo.exe
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\bin\Debug\DestructorDemo.pdb
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.csproj.AssemblyReference.cache
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.csproj.CoreCompileInputs.cache
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.exe
+D:\Training\Programming with C#\Day 5\DestructorDemo\DestructorDemo\obj\Debug\DestructorDemo.pdb
