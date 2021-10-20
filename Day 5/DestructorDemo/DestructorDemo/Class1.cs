@@ -11,9 +11,6 @@ namespace DestructorDemo
         public void Display_Msg()
         {
             Console.WriteLine("Inside Display Method");
-
-
-
         }
         public Class1()
         {
